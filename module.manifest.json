@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-core-environment-control",
+  "name": "WebWaka Core Environment Control",
+  "version": "0.1.0",
+  "class": "core",
+  "description": "Environment-specific configuration and control",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-core-environment-control"
+  }
+}
